@@ -1,8 +1,11 @@
-
+import Basic from "./Basic"
 
 function App() {
   return (
-    <h1> React</h1>
+    <>
+      <Basic />
+      <h1> React</h1>
+    </>
   );
 }
 
